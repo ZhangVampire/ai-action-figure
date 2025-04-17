@@ -8,7 +8,7 @@
 
 - 📋 [Overview](#overview)
 - 📚 [Resources](#resources)
-- 🤝 Contributing
+- 🤝 [Contributing](#contributing)
 
 ## Overview
 
