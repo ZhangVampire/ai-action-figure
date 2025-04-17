@@ -15,9 +15,8 @@
 2. [What is an AI Action Figure?](#2-what-is-an-ai-action-figure)
 3. [Advantages of Using GPT-4o](#3-advantages-of-using-gpt-4o)
 4. [Key Features of Generating AI Action Figures](#4-key-features-of-generating-ai-action-figures)
-5. [Basic Knowledge: Models, Image Generation, and Control](#5-basic-knowledge-models-image-generation-and-control)
-6. [Sample Prompts and Generated Results](#6-sample-prompts-and-generated-results)
-7. [Conclusion](#7-conclusion)
+5. [Sample Prompts and Generated Results](#5-sample-prompts-and-generated-results)
+6. [Conclusion](#6-conclusion)
 
 ---
 
@@ -67,28 +66,10 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 ---
 
-## 5. Basic Knowledge: Models, Image Generation, and Control
-
-While GPT-4o itself doesn't directly generate images, it can:
-
-- **Generate Prompts for Image Generation Models** (such as for Midjourney, DALL·E, Stable Diffusion)
-- **Assist in Setting Character Stories, Style Tones, and Design Language**
-- **Aid in Post-Description or Editing of Existing Images**
-
-Common image generation models include:
-
-- **DALL·E** (OpenAI)
-- **Stable Diffusion**
-- **Midjourney**
-- **Runway ML**
-
-GPT-4o can serve as a Prompt writing assistant and can be used in conjunction with these tools.
-
----
-
-## 6. Sample Prompts and Generated Results
+## 5. Sample Prompts and Generated Results
 
 **Example 1: Magical Girl Character**
+
 ※ Pure Language Description
 
 > A cute chibi-style magical girl action figure with pink twin tails, holding a tiny star wand, wearing a frilly pastel dress, placed inside a glittery toy packaging box with stars and hearts, big eyes, joyful expression, kawaii aesthetic, soft lighting, 3D render.
@@ -96,6 +77,7 @@ GPT-4o can serve as a Prompt writing assistant and can be used in conjunction wi
 <img src="/images/after1.png" height="500px">
 
 **Example 2: Fantasy Female Warrior**
+
 ※ Pure Language Description
 
 > A fantasy action figure of a female warrior with silver armor and a red cape, long braided hair, standing on a mountain cliff at sunrise, anime-style, holding a crystal spear, majestic and heroic.
@@ -103,6 +85,7 @@ GPT-4o can serve as a Prompt writing assistant and can be used in conjunction wi
 <img src="/images/warrior.png" height="500px">
 
 **Example 3: Action Figure Packaging Box**
+
 ※ Using Photo (AI Generated) + Language Description
 
 > A stylized collectible action figure of an elegant Asian woman in a flowing white dress, placed inside a toy-style packaging box, accessories include a paper fan, flower branch, and a book, cherry blossom pattern on the background, pastel pink and white color scheme, gentle smiling face, soft lighting, 3D toy-style render, modern minimalist design.
@@ -110,6 +93,7 @@ GPT-4o can serve as a Prompt writing assistant and can be used in conjunction wi
 <img src="/images/yinghua-girl-real.png" height="500px"><img src="/images/yinghua-girl-figure.png" height="500px">
 
 **Example 4: Children's Action Figure Packaging Box Style**
+
 ※ Using Photo (AI Generated) + Language Description
 
 > A cute collectible action figure of a smiling Asian girl holding a rainbow lollipop, placed inside a colorful toy packaging box, wearing a white T-shirt with a small cartoon design and navy blue shorts, with pigtails and a cheerful expression, accessories include extra lollipops, a tiny plush toy, and a sticker sheet, pastel-colored background with stars and candy motifs, 3D render, adorable toy box design, soft lighting, kawaii aesthetic, minimal background.
@@ -118,7 +102,7 @@ GPT-4o can serve as a Prompt writing assistant and can be used in conjunction wi
 
 ---
 
-## 7. Conclusion
+## 6. Conclusion
 
 Generating AI action figures is not just a technical practice but also an artistic creation. With GPT-4o's powerful multimodal understanding and generation capabilities, we can more efficiently and freely realize the entire process from character conception to visual presentation. In the future, AI-generated characters will become a standard tool in the creative industry, worth exploring deeply by every creator.
 
