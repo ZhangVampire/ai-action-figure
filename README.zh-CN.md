@@ -1,4 +1,4 @@
-# ✨ 利用 GPT-4o 生成 AI 动作人偶（AI Action Figure）指南 ✨
+# ✨ AI 动作人偶（AI Action Figure） ✨
 
 ![PR Welcome](/images/prs-welcome.svg)
 
@@ -93,27 +93,21 @@ GPT-4o 可以作为 Prompt 编写助手，也可与这些工具协同使用。
 
 > 一个可爱的Q版魔法少女动作人偶，有粉色双马尾，手持一个小星星魔杖，穿着褶边粉色连衣裙，放置在闪闪发光的玩具包装盒中，包装盒上有星星和爱心装饰，大眼睛，欢快的表情，可爱美学风格，柔和灯光，3D渲染。
 
-| Before | After |
-|---------|---------|
-| ![](/images/blank.png) | ![](/images/after1.png) |
+<img src="/images/after1.png" height="500px">
 
 **示例 2：幻想风女战士**
 ※ 单纯语言描述
 
 > 一个幻想风格的女战士动作人偶，身穿银色盔甲和红色斗篷，长辫子发型，站在日出时分的山崖上，动漫风格，手持水晶长矛，气势磅礴且英勇。
 
-| Before | After |
-|---------|---------|
-| ![](/images/blank.png) | ![](/images/warrior.png) |
+<img src="/images/after1.png" height="500px">
 
 **示例 3：动作人偶包装盒**
 ※ 使用照片（AI生成） + 语言描述
 
 > 一个优雅的亚洲女性收藏版动作人偶，身穿飘逸的白色连衣裙，放置在玩具风格的包装盒中，配件包括纸扇、花枝和书本，背景有樱花图案，粉色和白色的配色方案，温柔的微笑表情，柔和灯光，3D玩具风格渲染，现代简约设计。
 
-| Before | After |
-|---------|---------|
-| ![](/images/yinghua-girl-real.png) | ![](/images/yinghua-girl-figure.png) |
+<img src="/images/yinghua-girl-real.png" height="500px"><img src="/images/yinghua-girl-figure.png" height="500px">
 
 **示例 4：儿童人偶包装盒风格**
 
@@ -121,9 +115,7 @@ GPT-4o 可以作为 Prompt 编写助手，也可与这些工具协同使用。
 
 > 一个可爱的亚洲小女孩收藏版动作人偶，手持彩虹棒棒糖，放置在彩色玩具包装盒中，穿着带有小卡通图案的白色T恤和海军蓝短裤，扎着双马尾，表情愉快，配件包括额外的棒棒糖、小毛绒玩具和贴纸，背景是带有星星和糖果图案的柔和色调，3D渲染，可爱的玩具盒设计，柔和灯光，可爱美学风格，简约背景。
 
-| Before | After |
-|---------|---------|
-| ![](/images/little-girl-real.png) | ![](/images/little-girl-figure.png) |
+<img src="/images/little-girl-real.png" height="500px"><img src="/images/little-girl-figure.png" height="500px">
 ---
 
 ## 7. 结语

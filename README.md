@@ -1,4 +1,4 @@
-# ✨ Guide to Generating AI Action Figures Using GPT-4o ✨
+# ✨ AI Action Figure ✨
 
 ![PR Welcome](/images/prs-welcome.svg)
 
@@ -94,36 +94,28 @@ GPT-4o can serve as a Prompt writing assistant and can be used in conjunction wi
 
 > A cute chibi-style magical girl action figure with pink twin tails, holding a tiny star wand, wearing a frilly pastel dress, placed inside a glittery toy packaging box with stars and hearts, big eyes, joyful expression, kawaii aesthetic, soft lighting, 3D render.
 
-| Before | After |
-|---------|---------|
-| ![](/images/blank.png) | ![](/images/after1.png) |
+<img src="/images/after1.png" height="500px">
 
 **Example 2: Fantasy Female Warrior**
 ※ Pure Language Description
 
 > A fantasy action figure of a female warrior with silver armor and a red cape, long braided hair, standing on a mountain cliff at sunrise, anime-style, holding a crystal spear, majestic and heroic.
 
-| Before | After |
-|---------|---------|
-| ![](/images/blank.png) | ![](/images/warrior.png) |
+<img src="/images/after1.png" height="500px">
 
 **Example 3: Action Figure Packaging Box**
 ※ Using Photo (AI Generated) + Language Description
 
 > A stylized collectible action figure of an elegant Asian woman in a flowing white dress, placed inside a toy-style packaging box, accessories include a paper fan, flower branch, and a book, cherry blossom pattern on the background, pastel pink and white color scheme, gentle smiling face, soft lighting, 3D toy-style render, modern minimalist design.
 
-| Before | After |
-|---------|---------|
-| ![](/images/yinghua-girl-real.png) | ![](/images/yinghua-girl-figure.png) |
+<img src="/images/yinghua-girl-real.png" height="500px"><img src="/images/yinghua-girl-figure.png" height="500px">
 
 **Example 4: Children's Action Figure Packaging Box Style**
 ※ Using Photo (AI Generated) + Language Description
 
 > A cute collectible action figure of a smiling Asian girl holding a rainbow lollipop, placed inside a colorful toy packaging box, wearing a white T-shirt with a small cartoon design and navy blue shorts, with pigtails and a cheerful expression, accessories include extra lollipops, a tiny plush toy, and a sticker sheet, pastel-colored background with stars and candy motifs, 3D render, adorable toy box design, soft lighting, kawaii aesthetic, minimal background.
 
-| Before | After |
-|---------|---------|
-| ![](/images/little-girl-real.png) | ![](/images/little-girl-figure.png) |
+<img src="/images/little-girl-real.png" height="500px"><img src="/images/little-girl-figure.png" height="500px">
 
 ---
 
