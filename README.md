@@ -102,7 +102,7 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 **Example 5: Classical Dance Figure Style**
 
-※ Language Description
+※ Pure Language Description
 
 > Create an action figure of an East Asian woman wearing a flowing white gauze dress with a bun hairstyle, elegantly performing water sleeve movements from Chinese classical dance. Her arms move gracefully, causing the pink water sleeves to draw beautiful arcs in the air, showcasing the softness and rhythm of classical dance. The background features a Chinese-style folding screen, creating a naturally beautiful overall appearance.
 
@@ -110,11 +110,20 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 **Example 6: Tang Dynasty Figure Style**
 
-※ Language Description
+※ Pure Language Description
 
 > An elegant Tang Dynasty female action figure wearing luxurious traditional Tang costume in light blue and beige, with red and gold accents, and a floor-length skirt. Her hair is styled in a classical updo adorned with exquisite gold hairpieces, exuding nobility and elegance. Her face is decorated with flower-patterned makeup, and she holds a pink peony. The deep red background features gold floral patterns, creating a classical and dignified atmosphere that showcases the beauty of traditional Chinese culture.
 
 <img src="/images/figure-6.png" height="500px">
+
+**Example 7: Qing Dynasty Figure Style**
+
+※ Language Description Only
+
+> An elegant Qing Dynasty female action figure wearing traditional Qing Dynasty attire with a white base color adorned with exquisite floral patterns. The edges, collar, and cuffs feature dark blue trim with intricate embroidered patterns, adding to the garment's grandeur. The hairstyle is a typical Qing Dynasty updo, decorated with delicate ornaments including flowers and pearl strings, exuding elegance and nobility. Long earrings enhance the feminine grace. The pose is dignified, with hands folded in front, conveying a sense of tranquility and solemnity. The background is a simple light gray that doesn't distract from the figure, making the character the focal point. The overall style is classical and elegant, with meticulous attention to costume and hairstyle details, showcasing the beauty of Chinese traditional culture.
+
+<img src="/images/figure-7.png" height="500px">
+
 ---
 
 ## 6. Conclusion
