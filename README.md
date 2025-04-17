@@ -68,23 +68,7 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 ## 5. Sample Prompts and Generated Results
 
-**Example 1: Magical Girl Character**
-
-※ Pure Language Description
-
-> A cute chibi-style magical girl action figure with pink twin tails, holding a tiny star wand, wearing a frilly pastel dress, placed inside a glittery toy packaging box with stars and hearts, big eyes, joyful expression, kawaii aesthetic, soft lighting, 3D render.
-
-<img src="/images/figure-1.png" height="500px">
-
-**Example 2: Fantasy Female Warrior**
-
-※ Pure Language Description
-
-> A fantasy action figure of a female warrior with silver armor and a red cape, long braided hair, standing on a mountain cliff at sunrise, anime-style, holding a crystal spear, majestic and heroic.
-
-<img src="/images/figure-2.png" height="500px">
-
-**Example 3: Action Figure Packaging Box**
+**Example 1: Action Figure Packaging Box**
 
 ※ Using Photo (AI Generated) + Language Description
 
@@ -92,13 +76,30 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 <img src="/images/real-3.png" height="500px"><img src="/images/figure-3.png" height="500px">
 
-**Example 4: Children's Action Figure Packaging Box Style**
+**Example 2: Children's Action Figure Packaging Box Style**
 
 ※ Using Photo (AI Generated) + Language Description
 
 > A cute collectible action figure of a smiling Asian girl holding a rainbow lollipop, placed inside a colorful toy packaging box, wearing a white T-shirt with a small cartoon design and navy blue shorts, with pigtails and a cheerful expression, accessories include extra lollipops, a tiny plush toy, and a sticker sheet, pastel-colored background with stars and candy motifs, 3D render, adorable toy box design, soft lighting, kawaii aesthetic, minimal background.
 
 <img src="/images/real-4.png" height="500px"><img src="/images/figure-4.png" height="500px">
+
+**Example 3: Tang Dynasty Figure Style**
+
+※ Pure Language Description
+
+> An elegant Tang Dynasty female action figure wearing luxurious traditional Tang costume in light blue and beige, with red and gold accents, and a floor-length skirt. Her hair is styled in a classical updo adorned with exquisite gold hairpieces, exuding nobility and elegance. Her face is decorated with flower-patterned makeup, and she holds a pink peony. The deep red background features gold floral patterns, creating a classical and dignified atmosphere that showcases the beauty of traditional Chinese culture.
+
+<img src="/images/figure-6.png" height="500px">
+
+**Example 4: Qing Dynasty Figure Style**
+
+※ Language Description Only
+
+> An elegant Qing Dynasty female action figure wearing traditional Qing Dynasty attire with a white base color adorned with exquisite floral patterns. The edges, collar, and cuffs feature dark blue trim with intricate embroidered patterns, adding to the garment's grandeur. The hairstyle is a typical Qing Dynasty updo, decorated with delicate ornaments including flowers and pearl strings, exuding elegance and nobility. Long earrings enhance the feminine grace. The pose is dignified, with hands folded in front, conveying a sense of tranquility and solemnity. The background is a simple light gray that doesn't distract from the figure, making the character the focal point. The overall style is classical and elegant, with meticulous attention to costume and hairstyle details, showcasing the beauty of Chinese traditional culture.
+
+<img src="/images/figure-7.png" height="500px">
+
 
 **Example 5: Classical Dance Figure Style**
 
@@ -108,21 +109,21 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 <img src="/images/figure-5.png" height="500px">
 
-**Example 6: Tang Dynasty Figure Style**
+**Example 6: Magical Girl Character**
 
 ※ Pure Language Description
 
-> An elegant Tang Dynasty female action figure wearing luxurious traditional Tang costume in light blue and beige, with red and gold accents, and a floor-length skirt. Her hair is styled in a classical updo adorned with exquisite gold hairpieces, exuding nobility and elegance. Her face is decorated with flower-patterned makeup, and she holds a pink peony. The deep red background features gold floral patterns, creating a classical and dignified atmosphere that showcases the beauty of traditional Chinese culture.
+> A cute chibi-style magical girl action figure with pink twin tails, holding a tiny star wand, wearing a frilly pastel dress, placed inside a glittery toy packaging box with stars and hearts, big eyes, joyful expression, kawaii aesthetic, soft lighting, 3D render.
 
-<img src="/images/figure-6.png" height="500px">
+<img src="/images/figure-1.png" height="500px">
 
-**Example 7: Qing Dynasty Figure Style**
+**Example 7: Fantasy Female Warrior**
 
-※ Language Description Only
+※ Pure Language Description
 
-> An elegant Qing Dynasty female action figure wearing traditional Qing Dynasty attire with a white base color adorned with exquisite floral patterns. The edges, collar, and cuffs feature dark blue trim with intricate embroidered patterns, adding to the garment's grandeur. The hairstyle is a typical Qing Dynasty updo, decorated with delicate ornaments including flowers and pearl strings, exuding elegance and nobility. Long earrings enhance the feminine grace. The pose is dignified, with hands folded in front, conveying a sense of tranquility and solemnity. The background is a simple light gray that doesn't distract from the figure, making the character the focal point. The overall style is classical and elegant, with meticulous attention to costume and hairstyle details, showcasing the beauty of Chinese traditional culture.
+> A fantasy action figure of a female warrior with silver armor and a red cape, long braided hair, standing on a mountain cliff at sunrise, anime-style, holding a crystal spear, majestic and heroic.
 
-<img src="/images/figure-7.png" height="500px">
+<img src="/images/figure-2.png" height="500px">
 
 ---
 
