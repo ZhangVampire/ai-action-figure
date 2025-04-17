@@ -101,7 +101,7 @@ GPT-4o can serve as a Prompt writing assistant and can be used in conjunction wi
 
 > A fantasy action figure of a female warrior with silver armor and a red cape, long braided hair, standing on a mountain cliff at sunrise, anime-style, holding a crystal spear, majestic and heroic.
 
-<img src="/images/after1.png" height="500px">
+<img src="/images/warrior.png" height="500px">
 
 **Example 3: Action Figure Packaging Box**
 ※ Using Photo (AI Generated) + Language Description
