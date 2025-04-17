@@ -8,6 +8,7 @@
 
 - 📋 [Overview](#overview)
 - 📚 [Resources](#resources)
+- 🤝 Contributing
 
 ## Overview
 
@@ -137,3 +138,7 @@ Generating AI action figures is not just a technical practice but also an artist
 - 🇺🇸 [GPT-4o Image Generation Introduction](https://openai.com/index/introducing-4o-image-generation/)
 - 🇺🇸 [GPT-4o Model Documentation](https://platform.openai.com/docs/models/gpt-4o)
 - 🇺🇸 [Image Processing Guide](https://platform.openai.com/docs/guides/images)
+
+## Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first. 
