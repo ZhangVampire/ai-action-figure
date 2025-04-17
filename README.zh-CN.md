@@ -74,7 +74,7 @@ Action Figure 常被设定为放置在透明包装盒中。你可以补充如“
 
 > 一个可爱的Q版魔法少女动作人偶，有粉色双马尾，手持一个小星星魔杖，穿着褶边粉色连衣裙，放置在闪闪发光的玩具包装盒中，包装盒上有星星和爱心装饰，大眼睛，欢快的表情，可爱美学风格，柔和灯光，3D渲染。
 
-<img src="/images/after1.png" height="500px">
+<img src="/images/figure-1.png" height="500px">
 
 **示例 2：幻想风女战士**
 
@@ -82,7 +82,7 @@ Action Figure 常被设定为放置在透明包装盒中。你可以补充如“
 
 > 一个幻想风格的女战士动作人偶，身穿银色盔甲和红色斗篷，长辫子发型，站在日出时分的山崖上，动漫风格，手持水晶长矛，气势磅礴且英勇。
 
-<img src="/images/warrior.png" height="500px">
+<img src="/images/figure-2.png" height="500px">
 
 **示例 3：动作人偶包装盒**
 
@@ -90,7 +90,7 @@ Action Figure 常被设定为放置在透明包装盒中。你可以补充如“
 
 > 一个优雅的亚洲女性收藏版动作人偶，身穿飘逸的白色连衣裙，放置在玩具风格的包装盒中，配件包括纸扇、花枝和书本，背景有樱花图案，粉色和白色的配色方案，温柔的微笑表情，柔和灯光，3D玩具风格渲染，现代简约设计。
 
-<img src="/images/yinghua-girl-real.png" height="500px"><img src="/images/yinghua-girl-figure.png" height="500px">
+<img src="/images/real-3.png" height="500px"><img src="/images/figure-3.png" height="500px">
 
 **示例 4：儿童人偶包装盒风格**
 
@@ -98,7 +98,23 @@ Action Figure 常被设定为放置在透明包装盒中。你可以补充如“
 
 > 一个可爱的亚洲小女孩收藏版动作人偶，手持彩虹棒棒糖，放置在彩色玩具包装盒中，穿着带有小卡通图案的白色T恤和海军蓝短裤，扎着双马尾，表情愉快，配件包括额外的棒棒糖、小毛绒玩具和贴纸，背景是带有星星和糖果图案的柔和色调，3D渲染，可爱的玩具盒设计，柔和灯光，可爱美学风格，简约背景。
 
-<img src="/images/little-girl-real.png" height="500px"><img src="/images/little-girl-figure.png" height="500px">
+<img src="/images/real-4.png" height="500px"><img src="/images/figure-4.png" height="500px">
+
+**示例 5：古典舞人偶风格**
+
+※ 语言描述
+
+> 请绘制一个动作人偶，一位身着飘逸白色纱裙的东方女性，发型是丸子头，她正优雅地演绎着中国古典舞中的水袖动作。她的手臂轻盈挥动，带动着粉色的水袖在空中划出曼妙的弧线，展现出古典舞的柔美与韵律，背景是中国风的屏风，整体看起来自然美观
+
+<img src="/images/figure-5.png" height="500px">
+
+**示例 6：唐朝人偶风格**
+
+※ 语言描述
+
+> 一个优雅的唐代女性版动作人偶，身着华丽的传统唐装，色彩以淡蓝和米色为主，辅以红色和金色的装饰，裙长盖住双脚拖地。发型是古典的发髻，头戴精美的金色发饰，显得高贵典雅。脸部使用花钿妆修饰，手持一朵粉色牡丹花，背景为深红色，上面有金色的花纹装饰，营造出一种古典而庄重的氛围，展现中国传统文化的美感。
+
+<img src="/images/figure-6.png" height="500px">
 ---
 
 ## 6. 结语

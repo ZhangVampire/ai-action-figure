@@ -74,7 +74,7 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 > A cute chibi-style magical girl action figure with pink twin tails, holding a tiny star wand, wearing a frilly pastel dress, placed inside a glittery toy packaging box with stars and hearts, big eyes, joyful expression, kawaii aesthetic, soft lighting, 3D render.
 
-<img src="/images/after1.png" height="500px">
+<img src="/images/figure-1.png" height="500px">
 
 **Example 2: Fantasy Female Warrior**
 
@@ -82,7 +82,7 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 > A fantasy action figure of a female warrior with silver armor and a red cape, long braided hair, standing on a mountain cliff at sunrise, anime-style, holding a crystal spear, majestic and heroic.
 
-<img src="/images/warrior.png" height="500px">
+<img src="/images/figure-2.png" height="500px">
 
 **Example 3: Action Figure Packaging Box**
 
@@ -90,7 +90,7 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 > A stylized collectible action figure of an elegant Asian woman in a flowing white dress, placed inside a toy-style packaging box, accessories include a paper fan, flower branch, and a book, cherry blossom pattern on the background, pastel pink and white color scheme, gentle smiling face, soft lighting, 3D toy-style render, modern minimalist design.
 
-<img src="/images/yinghua-girl-real.png" height="500px"><img src="/images/yinghua-girl-figure.png" height="500px">
+<img src="/images/real-3.png" height="500px"><img src="/images/figure-3.png" height="500px">
 
 **Example 4: Children's Action Figure Packaging Box Style**
 
@@ -98,8 +98,23 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 > A cute collectible action figure of a smiling Asian girl holding a rainbow lollipop, placed inside a colorful toy packaging box, wearing a white T-shirt with a small cartoon design and navy blue shorts, with pigtails and a cheerful expression, accessories include extra lollipops, a tiny plush toy, and a sticker sheet, pastel-colored background with stars and candy motifs, 3D render, adorable toy box design, soft lighting, kawaii aesthetic, minimal background.
 
-<img src="/images/little-girl-real.png" height="500px"><img src="/images/little-girl-figure.png" height="500px">
+<img src="/images/real-4.png" height="500px"><img src="/images/figure-4.png" height="500px">
 
+**Example 5: Classical Dance Figure Style**
+
+※ Language Description
+
+> Create an action figure of an East Asian woman wearing a flowing white gauze dress with a bun hairstyle, elegantly performing water sleeve movements from Chinese classical dance. Her arms move gracefully, causing the pink water sleeves to draw beautiful arcs in the air, showcasing the softness and rhythm of classical dance. The background features a Chinese-style folding screen, creating a naturally beautiful overall appearance.
+
+<img src="/images/figure-5.png" height="500px">
+
+**Example 6: Tang Dynasty Figure Style**
+
+※ Language Description
+
+> An elegant Tang Dynasty female action figure wearing luxurious traditional Tang costume in light blue and beige, with red and gold accents, and a floor-length skirt. Her hair is styled in a classical updo adorned with exquisite gold hairpieces, exuding nobility and elegance. Her face is decorated with flower-patterned makeup, and she holds a pink peony. The deep red background features gold floral patterns, creating a classical and dignified atmosphere that showcases the beauty of traditional Chinese culture.
+
+<img src="/images/figure-6.png" height="500px">
 ---
 
 ## 6. Conclusion
