@@ -8,7 +8,6 @@
 
 - 📋 [概要](#概要)
 - 📚 [リソース](#リソース)
-- 🤝 [貢献](#貢献)
 
 ## 概要
 
@@ -129,7 +128,3 @@ AI アクションフィギュアの生成は、技術的な実践であるだ�
 - 🇺🇸 [GPT-4o 画像生成の紹介](https://openai.com/index/introducing-4o-image-generation/)
 - 🇺🇸 [GPT-4o モデルドキュメント](https://platform.openai.com/docs/models/gpt-4o)
 - 🇺🇸 [画像処理ガイド](https://platform.openai.com/docs/guides/images)
-
-## 貢献
-
-貢献をお待ちしています！まず[貢献ガイドライン](CONTRIBUTING.md)をお読みください。

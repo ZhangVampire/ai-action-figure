@@ -8,7 +8,6 @@
 
 - 📋 [概述](#概述)
 - 📚 [资源](#资源)
-- 🤝 [贡献](#贡献)
 
 ## 概述
 
@@ -129,7 +128,3 @@ GPT-4o 可以作为 Prompt 编写助手，也可与这些工具协同使用。
 - 🇺🇸 [GPT-4o 图像生成介绍](https://openai.com/index/introducing-4o-image-generation/)
 - 🇺🇸 [GPT-4o 模型文档](https://platform.openai.com/docs/models/gpt-4o)
 - 🇺🇸 [图像处理指南](https://platform.openai.com/docs/guides/images)
-
-## 贡献
-
-欢迎贡献！请先阅读[贡献指南](CONTRIBUTING.md)。 
