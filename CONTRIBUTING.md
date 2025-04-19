@@ -8,7 +8,7 @@ Thank you for your interest in the AI Action Figure project! We welcome communit
 
 1. **Fork this repository**
 2. **Create a new branch**: `git checkout -b add-new-figure`
-3. **Add your example**
+3. **Add your example to the Community Works section**
 
 ### Example Requirements
 
@@ -16,7 +16,7 @@ Thank you for your interest in the AI Action Figure project! We welcome communit
    - Resolution: Recommended minimum 500x800
    - Format: PNG or JPG
    - File size: No larger than 1MB per image
-   - Naming convention: `figure-{number}.png/jpg`
+   - Naming convention: `other-{number}.png/jpg`
 
 2. **Prompt Requirements**:
    - Clear description of character features
@@ -32,7 +32,7 @@ Thank you for your interest in the AI Action Figure project! We welcome communit
 ### Submission Process
 
 1. Place image files in the `/images` directory
-2. Add your example to the appropriate README file
+2. Add your example to the "Community Works" section in README
 3. Submit a Pull Request, including in the description:
    - Brief description of your example's features
    - Image copyright confirmation (must be your own generated original content)
@@ -40,13 +40,13 @@ Thank you for your interest in the AI Action Figure project! We welcome communit
 ### Example Format
 
 ```markdown
-**Example {number}: {theme}**
+### **{number}: {theme}**
 
-※ {generation method}
+[Link]({your social media link})
 
 > {Prompt content}
 
-<img src="/images/figure-{number}.png" height="500px">
+<img src="/images/other-{number}.png" height="500px">
 ```
 
 ## Notes
