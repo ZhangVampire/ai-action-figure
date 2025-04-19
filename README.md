@@ -29,6 +29,7 @@
      [9. Real Peony Flower](#9-real-peony-flower)  
      [10. Realistic and Fantasy Dragon](#10-realistic-and-fantasy-dragon)  
      [11. Anime Illustration Style](#11-anime-illustration-style)  
+     [12. Collectible Figure Style](#12-collectible-figure-style)  
    - [5.2 Community Works](#52-community-works)  
      [1. Comic Strip Style](#1-comic-strip-style)  
      [2. Ink Painting Style](#2-ink-painting-style)  
@@ -178,6 +179,14 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 > 『夏目友人帳』風のアニメイラストを作成します。シーンは、陽光が差し込む春の庭です。Q版夏目が緑の芝生地に横たわって、緩いグレーのパーカーと茶色のショーツを着て、腕に頭を枕してリラックスした表情です。彼の隣には、ニャンコ先生がいます。目を閉じて、まるで日差しを楽しんでいるかのように見えます。背景には桜の花が咲き誇り、ピンク色の花びらが風に舞い、静かで美しい雰囲気を演出しています。全体の色は明るく、春の空気が漂っています。
 
 <img src="/images/figure-11.png" height="500px">
+
+### **12: Collectible Figure Style**
+
+※ Using Photo (AI Generated) + Language Description
+
+> 参考这个图片生成一个人偶手办风格的图片，人物站在一个圆台上，裙子长一些
+
+<img src="/images/real-12.png" height="500px"><img src="/images/figure-12.png" height="500px">
 
 ### 5.2 Community Works
 
