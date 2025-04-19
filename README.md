@@ -171,7 +171,7 @@ You can choose realistic style (photorealistic), 3D rendering (3D render), anime
 
 <img src="/images/figure-10.png" height="500px">
 
-### **11：Anime Illustration Style**
+### **11: Anime Illustration Style**
 
 ※ Pure Language Description
 
